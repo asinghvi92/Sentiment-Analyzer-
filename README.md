@@ -1,4 +1,4 @@
-# Sentiment-Analyzer-
+# Sentiment-Analyzer
 Sentiment Analysis on movie review database using natural language processing 
 
 - Performed sentiment classification as positive or negative based on IMDB movie reviews database
